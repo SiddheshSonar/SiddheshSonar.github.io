@@ -189,6 +189,7 @@ body {
 #togglePassword {
   position: absolute;
   color: #03e9f4;
+  cursor: pointer;
   /* color: white; */
   left: 94%;
   top: 12%;
